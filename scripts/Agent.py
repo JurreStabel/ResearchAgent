@@ -1,6 +1,3 @@
-import nest_asyncio
-nest_asyncio.apply()
-
 from llama_cloud_services import LlamaParse
 from llama_index.core import SimpleDirectoryReader
 
